@@ -1,7 +1,6 @@
 <template>
   
   <Layout>
-    <TopScroll />
     <Section title="Contact" subtitle="">
       <p class="site-text"></p>
       <ContactForm />

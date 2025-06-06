@@ -1,7 +1,6 @@
 <template>
   
   <Layout>
-    <TopScroll />
     <Section title="About" subtitle="">
       <p class="site-text">For me, the journey to health and fitness has been deeply personal. 
         I know firsthand the emotional toll of battling with your weight. I was the "fat kid" in school, 

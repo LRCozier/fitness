@@ -1,7 +1,6 @@
 <template>
   
   <Layout>
-    <TopScroll />
     <Section title="Services" subtitle="">
       <p class="site-text"></p>
     </Section>
