@@ -11,6 +11,7 @@
 import Layout from './components/Layout.vue';
 import TopScroll from './components/TopScroll.vue';
 import Section from './components/Section.vue';
+import './style.css';
 
 </script>
 
