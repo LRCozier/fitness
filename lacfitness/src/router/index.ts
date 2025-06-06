@@ -23,7 +23,7 @@ const routes: Array<RouteRecordRaw> = [
   {
     path:'/contact',
     name: 'Contact',
-    component: Contact;
+    component: Contact,
   },
 ];
 
