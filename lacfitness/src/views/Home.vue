@@ -3,7 +3,7 @@
   <Layout>
     <TopScroll />
     <Section title="L.A.C Fitness" subtitle="From Battle to Breakthrough">
-
+      <p class="site-text">Your Partner for Holistic Health & Lasting Transformation</p>
     </Section>
   </Layout>
 
