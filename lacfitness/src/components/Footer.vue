@@ -9,13 +9,13 @@
     </nav>
     </div>
     <div class="social-icons">
-      <a href="" target="_blank" rel="noopener">
+      <a href="https://www.instagram.com/lacozierfitness" target="_blank" rel="noopener">
         <font-awesome-icon :icon="['fab', 'instagram']" />
       </a>
       <a href="" target="_blank" rel="noopener">
         <font-awesome-icon :icon="['fab', 'facebook']" />
       </a>
-      <a href="" target="_blank" rel="noopener">
+      <a href="https://www.linkedin.com/in/luke-rudderham-cozier-30205343/" target="_blank" rel="noopener">
         <font-awesome-icon :icon="['fab', 'linkedin']" />
       </a>
     </div>
